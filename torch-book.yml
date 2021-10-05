@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: 172.19.0.6
   tasks:
     - name: echo message
       debug:
