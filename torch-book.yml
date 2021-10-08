@@ -3,4 +3,4 @@
   tasks:
     - name: echo message
       debug:
-        msg: Hello Ansible 
+        msg: Hello Ansible a
